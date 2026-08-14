@@ -86,3 +86,8 @@ Thumbs.db
 # ============================================================
 
 *.log
+
+# Keep final exported embeddings used by downstream retrieval
+!artifacts/final/*.npy
+# Keep final exported embeddings used by downstream retrieval
+!artifacts/final/*.npy

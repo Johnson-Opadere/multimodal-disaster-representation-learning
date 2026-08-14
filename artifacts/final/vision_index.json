@@ -1,0 +1,5554 @@
+[
+  {
+    "idx": 0,
+    "event_id": "guatemala-volcano",
+    "damage_bucket": "volcanic_damage",
+    "patch_id": "guatemala-volcano_00000004",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 1,
+    "event_id": "guatemala-volcano",
+    "damage_bucket": "volcanic_damage",
+    "patch_id": "guatemala-volcano_00000012",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 2,
+    "event_id": "guatemala-volcano",
+    "damage_bucket": "volcanic_damage",
+    "patch_id": "guatemala-volcano_00000014",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 3,
+    "event_id": "guatemala-volcano",
+    "damage_bucket": "volcanic_damage",
+    "patch_id": "guatemala-volcano_00000020",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 4,
+    "event_id": "guatemala-volcano",
+    "damage_bucket": "volcanic_damage",
+    "patch_id": "guatemala-volcano_00000022",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 5,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000006",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 6,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000009",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 7,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000010",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 8,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000011",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 9,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000014",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 10,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000017",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 11,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000021",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 12,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000033",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 13,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000034",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 14,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000035",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 15,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000038",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 16,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000040",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 17,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000041",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 18,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000047",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 19,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000050",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 20,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000052",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 21,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000068",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 22,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000071",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 23,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000074",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 24,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000081",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 25,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000089",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 26,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000090",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 27,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000097",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 28,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000098",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 29,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000105",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 30,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000107",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 31,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000109",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 32,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000121",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 33,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000124",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 34,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000130",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 35,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000134",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 36,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000137",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 37,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000154",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 38,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000155",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 39,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000157",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 40,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000161",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 41,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000162",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 42,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000170",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 43,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000175",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 44,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000201",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 45,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000202",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 46,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000205",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 47,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000206",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 48,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000207",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 49,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000209",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 50,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000213",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 51,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000214",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 52,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000220",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 53,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000223",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 54,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000227",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 55,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000230",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 56,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000234",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 57,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000236",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 58,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000239",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 59,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000241",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 60,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000243",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 61,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000246",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 62,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000248",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 63,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000250",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 64,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000254",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 65,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000257",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 66,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000258",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 67,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000261",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 68,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000271",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 69,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000280",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 70,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000283",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 71,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000287",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 72,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000295",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 73,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000299",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 74,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000305",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 75,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000311",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 76,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000322",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 77,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000327",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 78,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000339",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 79,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000348",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 80,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000351",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 81,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000352",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 82,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000354",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 83,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000358",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 84,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000367",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 85,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000373",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 86,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000383",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 87,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000385",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 88,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000391",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 89,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000402",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 90,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000412",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 91,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000413",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 92,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000429",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 93,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000430",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 94,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000432",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 95,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000439",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 96,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000440",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 97,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000447",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 98,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000458",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 99,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000463",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 100,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000465",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 101,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000479",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 102,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000487",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 103,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000489",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 104,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000495",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 105,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000499",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 106,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000502",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 107,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000505",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 108,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000511",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 109,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000518",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 110,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000520",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 111,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000521",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 112,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000524",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 113,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000532",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 114,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000534",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 115,
+    "event_id": "hurricane-florence",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-florence_00000539",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 116,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000004",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 117,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000005",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 118,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000013",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 119,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000014",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 120,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000021",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 121,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000027",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 122,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000031",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 123,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000032",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 124,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000034",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 125,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000038",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 126,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000050",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 127,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000065",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 128,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000067",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 129,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000074",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 130,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000083",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 131,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000086",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 132,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000087",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 133,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000095",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 134,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000102",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 135,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000106",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 136,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000110",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 137,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000117",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 138,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000121",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 139,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000124",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 140,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000125",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 141,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000140",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 142,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000148",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 143,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000149",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 144,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000175",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 145,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000181",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 146,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000183",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 147,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000184",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 148,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000188",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 149,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000190",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 150,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000193",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 151,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000198",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 152,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000199",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 153,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000201",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 154,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000209",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 155,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000215",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 156,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000229",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 157,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000234",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 158,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000236",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 159,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000240",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 160,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000247",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 161,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000253",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 162,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000256",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 163,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000263",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 164,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000279",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 165,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000282",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 166,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000290",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 167,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000293",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 168,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000295",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 169,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000296",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 170,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000306",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 171,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000311",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 172,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000321",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 173,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000334",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 174,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000343",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 175,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000349",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 176,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000350",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 177,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000352",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 178,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000359",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 179,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000362",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 180,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000363",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 181,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000371",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 182,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000372",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 183,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000376",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 184,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000383",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 185,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000385",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 186,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000386",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 187,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000395",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 188,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000399",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 189,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000401",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 190,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000403",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 191,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000404",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 192,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000405",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 193,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000409",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 194,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000414",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 195,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000417",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 196,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000421",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 197,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000447",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 198,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000449",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 199,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000450",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 200,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000457",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 201,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000459",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 202,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000475",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 203,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000487",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 204,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000490",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 205,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000497",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 206,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000503",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 207,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000513",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 208,
+    "event_id": "hurricane-harvey",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-harvey_00000518",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 209,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000123",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 210,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000124",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 211,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000127",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 212,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000131",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 213,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000138",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 214,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000141",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 215,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000144",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 216,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000161",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 217,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000196",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 218,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000199",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 219,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000224",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 220,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000229",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 221,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000247",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 222,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000253",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 223,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000258",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 224,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000280",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 225,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000323",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 226,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000326",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 227,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000330",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 228,
+    "event_id": "hurricane-matthew",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-matthew_00000333",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 229,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000002",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 230,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000006",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 231,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000007",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 232,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000023",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 233,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000026",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 234,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000027",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 235,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000033",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 236,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000037",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 237,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000054",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 238,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000055",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 239,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000062",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 240,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000063",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 241,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000064",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 242,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000065",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 243,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000073",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 244,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000080",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 245,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000084",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 246,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000086",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 247,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000108",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 248,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000111",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 249,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000114",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 250,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000115",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 251,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000117",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 252,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000126",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 253,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000127",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 254,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000131",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 255,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000132",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 256,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000140",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 257,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000148",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 258,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000160",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 259,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000161",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 260,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000164",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 261,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000171",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 262,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000173",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 263,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000185",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 264,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000186",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 265,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000190",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 266,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000194",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 267,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000201",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 268,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000209",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 269,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000213",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 270,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000215",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 271,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000221",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 272,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000223",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 273,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000226",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 274,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000227",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 275,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000229",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 276,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000232",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 277,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000237",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 278,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000245",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 279,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000259",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 280,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000262",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 281,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000274",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 282,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000279",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 283,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000280",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 284,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000282",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 285,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000288",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 286,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000297",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 287,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000298",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 288,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000317",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 289,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000318",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 290,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000320",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 291,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000321",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 292,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000332",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 293,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000335",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 294,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000336",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 295,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000350",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 296,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000364",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 297,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000370",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 298,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000374",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 299,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000376",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 300,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000381",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 301,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000382",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 302,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000383",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 303,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000394",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 304,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000400",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 305,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000401",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 306,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000407",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 307,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000423",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 308,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000425",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 309,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000432",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 310,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000433",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 311,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000434",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 312,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000438",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 313,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000445",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 314,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000448",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 315,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000449",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 316,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000453",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 317,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000456",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 318,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000457",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 319,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000464",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 320,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000469",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 321,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000470",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 322,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000483",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 323,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000488",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 324,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000491",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 325,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000493",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 326,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000495",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 327,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000503",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 328,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000506",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 329,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000508",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 330,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000510",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 331,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000513",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 332,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000520",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 333,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000525",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 334,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000531",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 335,
+    "event_id": "hurricane-michael",
+    "damage_bucket": "flooding",
+    "patch_id": "hurricane-michael_00000532",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 336,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000014",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 337,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000016",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 338,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000026",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 339,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000036",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 340,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000038",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 341,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000045",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 342,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000050",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 343,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000051",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 344,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000054",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 345,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000056",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 346,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000060",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 347,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000062",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 348,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000071",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 349,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000073",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 350,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000077",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 351,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000081",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 352,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000091",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 353,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000097",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 354,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000099",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 355,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000116",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 356,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000123",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 357,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000130",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 358,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000133",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 359,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000134",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 360,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000137",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 361,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000145",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 362,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000147",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 363,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000149",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 364,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000156",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 365,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000162",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 366,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000165",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 367,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000167",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 368,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000170",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 369,
+    "event_id": "mexico-earthquake",
+    "damage_bucket": "structural_damage",
+    "patch_id": "mexico-earthquake_00000175",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 370,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000009",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 371,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000015",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 372,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000034",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 373,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000037",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 374,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000042",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 375,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000045",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 376,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000046",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 377,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000051",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 378,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000052",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 379,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000053",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 380,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000055",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 381,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000057",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 382,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000069",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 383,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000080",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 384,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000091",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 385,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000094",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 386,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000124",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 387,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000129",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 388,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000134",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 389,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000138",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 390,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000147",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 391,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000155",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 392,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000163",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 393,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000174",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 394,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000180",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 395,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000185",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 396,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000187",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 397,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000189",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 398,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000192",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 399,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000213",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 400,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000218",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 401,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000226",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 402,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000227",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 403,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000240",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 404,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000241",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 405,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000245",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 406,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000250",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 407,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000257",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 408,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000260",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 409,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000261",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 410,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000262",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 411,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000266",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 412,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000278",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 413,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000280",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 414,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000288",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 415,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000291",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 416,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000294",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 417,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000295",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 418,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000296",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 419,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000297",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 420,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000300",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 421,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000305",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 422,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000306",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 423,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000307",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 424,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000312",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 425,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000321",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 426,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000325",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 427,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000327",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 428,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000341",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 429,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000342",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 430,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000349",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 431,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000364",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 432,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000369",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 433,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000372",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 434,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000373",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 435,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000383",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 436,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000384",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 437,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000387",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 438,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000390",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 439,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000402",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 440,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000419",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 441,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000434",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 442,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000439",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 443,
+    "event_id": "midwest-flooding",
+    "damage_bucket": "flooding",
+    "patch_id": "midwest-flooding_00000443",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 444,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000009",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 445,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000013",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 446,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000014",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 447,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000017",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 448,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000018",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 449,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000029",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 450,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000031",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 451,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000036",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 452,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000039",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 453,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000046",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 454,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000052",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 455,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000055",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 456,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000059",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 457,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000060",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 458,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000063",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 459,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000070",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 460,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000075",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 461,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000078",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 462,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000079",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 463,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000080",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 464,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000085",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 465,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000089",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 466,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000093",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 467,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000095",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 468,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000104",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 469,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000105",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 470,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000116",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 471,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000130",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 472,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000138",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 473,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000144",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 474,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000149",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 475,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000150",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 476,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000159",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 477,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000162",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 478,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000172",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 479,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000176",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 480,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000180",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 481,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000186",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 482,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000190",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 483,
+    "event_id": "palu-tsunami",
+    "damage_bucket": "tsunami_inundation",
+    "patch_id": "palu-tsunami_00000192",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 484,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000008",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 485,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000010",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 486,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000013",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 487,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000016",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 488,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000020",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 489,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000025",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 490,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000029",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 491,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000032",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 492,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000037",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 493,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000048",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 494,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000053",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 495,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000054",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 496,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000061",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 497,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000062",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 498,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000064",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 499,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000077",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 500,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000080",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 501,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000083",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 502,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000092",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 503,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000104",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 504,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000107",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 505,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000108",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 506,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000112",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 507,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000115",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 508,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000120",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 509,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000121",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 510,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000122",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 511,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000126",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 512,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000127",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 513,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000131",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 514,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000139",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 515,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000150",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 516,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000154",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 517,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000157",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 518,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000160",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 519,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000167",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 520,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000186",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 521,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000188",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 522,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000193",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 523,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000194",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 524,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000195",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 525,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000197",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 526,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000201",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 527,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000211",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 528,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000218",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 529,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000219",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 530,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000222",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 531,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000227",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 532,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000230",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 533,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000232",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 534,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000240",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 535,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000255",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 536,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000261",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 537,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000262",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 538,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000263",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 539,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000265",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 540,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000266",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 541,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000278",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 542,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000282",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 543,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000288",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 544,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000303",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 545,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000307",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 546,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000310",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 547,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000316",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 548,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000317",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 549,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000319",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 550,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000322",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 551,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000323",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 552,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000326",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 553,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000332",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 554,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000335",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 555,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000342",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 556,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000347",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 557,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000349",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 558,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000352",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 559,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000363",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 560,
+    "event_id": "santa-rosa-wildfire",
+    "damage_bucket": "wildfire",
+    "patch_id": "santa-rosa-wildfire_00000365",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 561,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000007",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 562,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000011",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 563,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000034",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 564,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000039",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 565,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000040",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 566,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000041",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 567,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000054",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 568,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000063",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 569,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000068",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 570,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000069",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 571,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000071",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 572,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000111",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 573,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000112",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 574,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000119",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 575,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000123",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 576,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000134",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 577,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000147",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 578,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000155",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 579,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000158",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 580,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000165",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 581,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000182",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 582,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000188",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 583,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000192",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 584,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000212",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 585,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000218",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 586,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000225",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 587,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000281",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 588,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000284",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 589,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000289",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 590,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000307",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 591,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000315",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 592,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000338",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 593,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000345",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 594,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000350",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 595,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000355",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 596,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000365",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 597,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000368",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 598,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000382",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 599,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000395",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 600,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000404",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 601,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000413",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 602,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000428",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 603,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000453",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 604,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000459",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 605,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000463",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 606,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000476",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 607,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000479",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 608,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000487",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 609,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000490",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 610,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000491",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 611,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000512",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 612,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000526",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 613,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000532",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 614,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000542",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 615,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000555",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 616,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000557",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 617,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000561",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 618,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000562",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 619,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000567",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 620,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000575",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 621,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000582",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 622,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000595",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 623,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000604",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 624,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000610",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 625,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000616",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 626,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000627",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 627,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000630",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 628,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000641",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 629,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000648",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 630,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000658",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 631,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000667",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 632,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000670",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 633,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000673",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 634,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000682",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 635,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000683",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 636,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000703",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 637,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000712",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 638,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000716",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 639,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000717",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 640,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000733",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 641,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000796",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 642,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000800",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 643,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000803",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 644,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000806",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 645,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000809",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 646,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000811",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 647,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000814",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 648,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000818",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 649,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000826",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 650,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000832",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 651,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000837",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 652,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000846",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 653,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000848",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 654,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000856",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 655,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000869",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 656,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000870",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 657,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000896",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 658,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000899",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 659,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000900",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 660,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000902",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 661,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000911",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 662,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000920",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 663,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000924",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 664,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000925",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 665,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000936",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 666,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000941",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 667,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000948",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 668,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000954",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 669,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000974",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 670,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00000977",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 671,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001014",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 672,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001032",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 673,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001044",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 674,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001048",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 675,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001051",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 676,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001076",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 677,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001097",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 678,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001100",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 679,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001109",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 680,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001139",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 681,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001148",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 682,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001155",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 683,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001161",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 684,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001173",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 685,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001174",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 686,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001201",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 687,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001217",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 688,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001276",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 689,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001277",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 690,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001284",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 691,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001290",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 692,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001311",
+    "split": "hold",
+    "is_holdout_event": false
+  },
+  {
+    "idx": 693,
+    "event_id": "socal-fire",
+    "damage_bucket": "wildfire",
+    "patch_id": "socal-fire_00001360",
+    "split": "hold",
+    "is_holdout_event": false
+  }
+]
