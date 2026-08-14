@@ -1,0 +1,221 @@
+{
+  "event_id": "guatemala-volcano",
+  "image_patches": [
+    {
+      "patch_id": "00000000",
+      "rgb_pre": "train/rgb_pre_norm/guatemala-volcano_00000000_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/guatemala-volcano_00000000_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/guatemala-volcano_00000000_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/guatemala-volcano_00000000_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000001",
+      "rgb_pre": "train/rgb_pre_norm/guatemala-volcano_00000001_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/guatemala-volcano_00000001_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/guatemala-volcano_00000001_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/guatemala-volcano_00000001_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000002",
+      "rgb_pre": "train/rgb_pre_norm/guatemala-volcano_00000002_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/guatemala-volcano_00000002_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/guatemala-volcano_00000002_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/guatemala-volcano_00000002_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000006",
+      "rgb_pre": "train/rgb_pre_norm/guatemala-volcano_00000006_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/guatemala-volcano_00000006_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/guatemala-volcano_00000006_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/guatemala-volcano_00000006_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000007",
+      "rgb_pre": "train/rgb_pre_norm/guatemala-volcano_00000007_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/guatemala-volcano_00000007_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/guatemala-volcano_00000007_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/guatemala-volcano_00000007_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000010",
+      "rgb_pre": "train/rgb_pre_norm/guatemala-volcano_00000010_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/guatemala-volcano_00000010_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/guatemala-volcano_00000010_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/guatemala-volcano_00000010_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000013",
+      "rgb_pre": "train/rgb_pre_norm/guatemala-volcano_00000013_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/guatemala-volcano_00000013_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/guatemala-volcano_00000013_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/guatemala-volcano_00000013_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000015",
+      "rgb_pre": "train/rgb_pre_norm/guatemala-volcano_00000015_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/guatemala-volcano_00000015_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/guatemala-volcano_00000015_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/guatemala-volcano_00000015_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000016",
+      "rgb_pre": "train/rgb_pre_norm/guatemala-volcano_00000016_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/guatemala-volcano_00000016_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/guatemala-volcano_00000016_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/guatemala-volcano_00000016_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000017",
+      "rgb_pre": "train/rgb_pre_norm/guatemala-volcano_00000017_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/guatemala-volcano_00000017_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/guatemala-volcano_00000017_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/guatemala-volcano_00000017_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000018",
+      "rgb_pre": "train/rgb_pre_norm/guatemala-volcano_00000018_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/guatemala-volcano_00000018_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/guatemala-volcano_00000018_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/guatemala-volcano_00000018_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000019",
+      "rgb_pre": "train/rgb_pre_norm/guatemala-volcano_00000019_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/guatemala-volcano_00000019_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/guatemala-volcano_00000019_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/guatemala-volcano_00000019_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000023",
+      "rgb_pre": "train/rgb_pre_norm/guatemala-volcano_00000023_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/guatemala-volcano_00000023_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/guatemala-volcano_00000023_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/guatemala-volcano_00000023_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000024",
+      "rgb_pre": "train/rgb_pre_norm/guatemala-volcano_00000024_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/guatemala-volcano_00000024_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/guatemala-volcano_00000024_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/guatemala-volcano_00000024_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000025",
+      "rgb_pre": "train/rgb_pre_norm/guatemala-volcano_00000025_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/guatemala-volcano_00000025_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/guatemala-volcano_00000025_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/guatemala-volcano_00000025_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000026",
+      "rgb_pre": "train/rgb_pre_norm/guatemala-volcano_00000026_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/guatemala-volcano_00000026_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/guatemala-volcano_00000026_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/guatemala-volcano_00000026_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000027",
+      "rgb_pre": "train/rgb_pre_norm/guatemala-volcano_00000027_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/guatemala-volcano_00000027_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/guatemala-volcano_00000027_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/guatemala-volcano_00000027_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000004",
+      "rgb_pre": "hold/rgb_pre_norm/guatemala-volcano_00000004_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/guatemala-volcano_00000004_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/guatemala-volcano_00000004_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/guatemala-volcano_00000004_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000012",
+      "rgb_pre": "hold/rgb_pre_norm/guatemala-volcano_00000012_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/guatemala-volcano_00000012_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/guatemala-volcano_00000012_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/guatemala-volcano_00000012_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000014",
+      "rgb_pre": "hold/rgb_pre_norm/guatemala-volcano_00000014_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/guatemala-volcano_00000014_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/guatemala-volcano_00000014_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/guatemala-volcano_00000014_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000020",
+      "rgb_pre": "hold/rgb_pre_norm/guatemala-volcano_00000020_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/guatemala-volcano_00000020_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/guatemala-volcano_00000020_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/guatemala-volcano_00000020_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000022",
+      "rgb_pre": "hold/rgb_pre_norm/guatemala-volcano_00000022_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/guatemala-volcano_00000022_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/guatemala-volcano_00000022_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/guatemala-volcano_00000022_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000003",
+      "rgb_pre": "test/rgb_pre_norm/guatemala-volcano_00000003_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/guatemala-volcano_00000003_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/guatemala-volcano_00000003_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/guatemala-volcano_00000003_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000005",
+      "rgb_pre": "test/rgb_pre_norm/guatemala-volcano_00000005_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/guatemala-volcano_00000005_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/guatemala-volcano_00000005_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/guatemala-volcano_00000005_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000009",
+      "rgb_pre": "test/rgb_pre_norm/guatemala-volcano_00000009_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/guatemala-volcano_00000009_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/guatemala-volcano_00000009_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/guatemala-volcano_00000009_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000011",
+      "rgb_pre": "test/rgb_pre_norm/guatemala-volcano_00000011_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/guatemala-volcano_00000011_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/guatemala-volcano_00000011_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/guatemala-volcano_00000011_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000021",
+      "rgb_pre": "test/rgb_pre_norm/guatemala-volcano_00000021_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/guatemala-volcano_00000021_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/guatemala-volcano_00000021_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/guatemala-volcano_00000021_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    }
+  ]
+}

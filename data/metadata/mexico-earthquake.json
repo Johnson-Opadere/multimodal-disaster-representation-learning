@@ -1,0 +1,1549 @@
+{
+  "event_id": "mexico-earthquake",
+  "image_patches": [
+    {
+      "patch_id": "00000000",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000000_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000000_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000000_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000000_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000001",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000001_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000001_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000001_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000001_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000002",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000002_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000002_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000002_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000002_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000003",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000003_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000003_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000003_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000003_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000004",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000004_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000004_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000004_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000004_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000007",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000007_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000007_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000007_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000007_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000008",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000008_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000008_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000008_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000008_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000009",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000009_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000009_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000009_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000009_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000011",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000011_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000011_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000011_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000011_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000013",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000013_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000013_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000013_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000013_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000015",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000015_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000015_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000015_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000015_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000017",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000017_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000017_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000017_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000017_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000018",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000018_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000018_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000018_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000018_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000019",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000019_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000019_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000019_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000019_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000020",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000020_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000020_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000020_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000020_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000021",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000021_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000021_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000021_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000021_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000023",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000023_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000023_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000023_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000023_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000024",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000024_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000024_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000024_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000024_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000027",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000027_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000027_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000027_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000027_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000029",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000029_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000029_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000029_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000029_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000030",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000030_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000030_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000030_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000030_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000031",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000031_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000031_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000031_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000031_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000032",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000032_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000032_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000032_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000032_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000033",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000033_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000033_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000033_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000033_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000034",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000034_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000034_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000034_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000034_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000035",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000035_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000035_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000035_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000035_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000037",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000037_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000037_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000037_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000037_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000039",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000039_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000039_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000039_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000039_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000040",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000040_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000040_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000040_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000040_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000041",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000041_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000041_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000041_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000041_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000042",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000042_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000042_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000042_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000042_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000043",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000043_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000043_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000043_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000043_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000044",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000044_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000044_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000044_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000044_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000046",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000046_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000046_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000046_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000046_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000047",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000047_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000047_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000047_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000047_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000048",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000048_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000048_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000048_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000048_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000049",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000049_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000049_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000049_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000049_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000052",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000052_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000052_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000052_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000052_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000053",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000053_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000053_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000053_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000053_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000055",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000055_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000055_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000055_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000055_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000057",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000057_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000057_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000057_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000057_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000059",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000059_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000059_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000059_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000059_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000064",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000064_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000064_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000064_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000064_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000066",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000066_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000066_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000066_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000066_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000067",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000067_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000067_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000067_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000067_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000068",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000068_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000068_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000068_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000068_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000070",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000070_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000070_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000070_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000070_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000072",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000072_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000072_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000072_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000072_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000074",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000074_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000074_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000074_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000074_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000075",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000075_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000075_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000075_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000075_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000078",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000078_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000078_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000078_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000078_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000079",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000079_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000079_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000079_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000079_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000082",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000082_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000082_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000082_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000082_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000083",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000083_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000083_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000083_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000083_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000084",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000084_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000084_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000084_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000084_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000085",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000085_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000085_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000085_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000085_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000086",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000086_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000086_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000086_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000086_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000087",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000087_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000087_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000087_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000087_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000088",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000088_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000088_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000088_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000088_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000089",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000089_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000089_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000089_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000089_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000092",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000092_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000092_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000092_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000092_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000093",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000093_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000093_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000093_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000093_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000096",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000096_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000096_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000096_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000096_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000098",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000098_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000098_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000098_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000098_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000100",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000100_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000100_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000100_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000100_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000101",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000101_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000101_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000101_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000101_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000102",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000102_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000102_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000102_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000102_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000103",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000103_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000103_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000103_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000103_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000104",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000104_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000104_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000104_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000104_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000105",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000105_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000105_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000105_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000105_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000107",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000107_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000107_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000107_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000107_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000108",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000108_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000108_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000108_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000108_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000110",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000110_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000110_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000110_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000110_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000111",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000111_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000111_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000111_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000111_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000112",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000112_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000112_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000112_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000112_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000114",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000114_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000114_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000114_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000114_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000115",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000115_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000115_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000115_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000115_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000118",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000118_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000118_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000118_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000118_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000119",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000119_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000119_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000119_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000119_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000120",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000120_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000120_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000120_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000120_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000122",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000122_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000122_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000122_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000122_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000125",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000125_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000125_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000125_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000125_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000126",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000126_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000126_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000126_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000126_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000127",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000127_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000127_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000127_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000127_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000128",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000128_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000128_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000128_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000128_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000129",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000129_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000129_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000129_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000129_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000132",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000132_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000132_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000132_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000132_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000136",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000136_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000136_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000136_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000136_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000138",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000138_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000138_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000138_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000138_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000140",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000140_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000140_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000140_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000140_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000141",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000141_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000141_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000141_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000141_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000142",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000142_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000142_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000142_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000142_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000143",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000143_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000143_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000143_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000143_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000144",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000144_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000144_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000144_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000144_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000146",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000146_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000146_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000146_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000146_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000148",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000148_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000148_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000148_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000148_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000150",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000150_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000150_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000150_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000150_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000151",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000151_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000151_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000151_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000151_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000152",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000152_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000152_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000152_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000152_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000153",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000153_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000153_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000153_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000153_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000154",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000154_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000154_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000154_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000154_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000155",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000155_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000155_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000155_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000155_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000158",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000158_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000158_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000158_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000158_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000159",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000159_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000159_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000159_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000159_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000160",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000160_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000160_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000160_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000160_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000164",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000164_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000164_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000164_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000164_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000166",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000166_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000166_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000166_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000166_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000168",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000168_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000168_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000168_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000168_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000171",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000171_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000171_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000171_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000171_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000172",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000172_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000172_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000172_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000172_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000173",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000173_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000173_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000173_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000173_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000176",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000176_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000176_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000176_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000176_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000177",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000177_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000177_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000177_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000177_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000179",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000179_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000179_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000179_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000179_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000181",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000181_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000181_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000181_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000181_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000182",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000182_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000182_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000182_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000182_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000184",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000184_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000184_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000184_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000184_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000185",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000185_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000185_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000185_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000185_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000186",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000186_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000186_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000186_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000186_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000191",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000191_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000191_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000191_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000191_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000192",
+      "rgb_pre": "train/rgb_pre_norm/mexico-earthquake_00000192_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/mexico-earthquake_00000192_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/mexico-earthquake_00000192_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/mexico-earthquake_00000192_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000014",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000014_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000014_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000014_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000014_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000016",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000016_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000016_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000016_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000016_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000026",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000026_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000026_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000026_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000026_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000036",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000036_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000036_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000036_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000036_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000038",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000038_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000038_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000038_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000038_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000045",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000045_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000045_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000045_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000045_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000050",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000050_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000050_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000050_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000050_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000051",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000051_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000051_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000051_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000051_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000054",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000054_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000054_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000054_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000054_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000056",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000056_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000056_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000056_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000056_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000060",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000060_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000060_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000060_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000060_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000062",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000062_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000062_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000062_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000062_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000071",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000071_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000071_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000071_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000071_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000073",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000073_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000073_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000073_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000073_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000077",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000077_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000077_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000077_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000077_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000081",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000081_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000081_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000081_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000081_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000091",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000091_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000091_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000091_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000091_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000097",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000097_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000097_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000097_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000097_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000099",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000099_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000099_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000099_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000099_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000116",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000116_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000116_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000116_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000116_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000123",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000123_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000123_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000123_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000123_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000130",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000130_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000130_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000130_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000130_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000133",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000133_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000133_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000133_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000133_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000134",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000134_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000134_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000134_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000134_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000137",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000137_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000137_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000137_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000137_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000145",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000145_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000145_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000145_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000145_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000147",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000147_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000147_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000147_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000147_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000149",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000149_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000149_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000149_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000149_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000156",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000156_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000156_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000156_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000156_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000162",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000162_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000162_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000162_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000162_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000165",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000165_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000165_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000165_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000165_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000167",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000167_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000167_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000167_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000167_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000170",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000170_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000170_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000170_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000170_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000175",
+      "rgb_pre": "hold/rgb_pre_norm/mexico-earthquake_00000175_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/mexico-earthquake_00000175_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/mexico-earthquake_00000175_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/mexico-earthquake_00000175_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000005",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000005_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000005_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000005_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000005_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000006",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000006_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000006_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000006_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000006_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000010",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000010_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000010_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000010_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000010_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000012",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000012_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000012_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000012_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000012_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000022",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000022_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000022_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000022_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000022_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000025",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000025_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000025_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000025_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000025_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000028",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000028_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000028_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000028_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000028_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000058",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000058_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000058_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000058_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000058_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000061",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000061_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000061_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000061_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000061_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000063",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000063_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000063_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000063_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000063_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000065",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000065_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000065_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000065_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000065_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000069",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000069_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000069_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000069_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000069_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000076",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000076_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000076_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000076_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000076_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000080",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000080_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000080_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000080_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000080_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000090",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000090_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000090_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000090_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000090_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000094",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000094_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000094_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000094_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000094_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000095",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000095_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000095_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000095_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000095_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000106",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000106_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000106_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000106_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000106_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000109",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000109_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000109_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000109_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000109_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000113",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000113_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000113_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000113_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000113_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000117",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000117_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000117_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000117_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000117_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000121",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000121_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000121_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000121_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000121_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000124",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000124_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000124_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000124_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000124_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000131",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000131_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000131_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000131_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000131_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000135",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000135_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000135_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000135_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000135_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000139",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000139_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000139_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000139_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000139_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000157",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000157_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000157_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000157_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000157_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000161",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000161_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000161_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000161_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000161_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000163",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000163_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000163_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000163_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000163_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000169",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000169_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000169_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000169_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000169_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000174",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000174_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000174_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000174_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000174_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000178",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000178_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000178_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000178_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000178_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000180",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000180_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000180_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000180_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000180_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000183",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000183_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000183_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000183_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000183_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000187",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000187_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000187_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000187_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000187_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000188",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000188_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000188_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000188_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000188_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000189",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000189_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000189_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000189_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000189_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000190",
+      "rgb_pre": "test/rgb_pre_norm/mexico-earthquake_00000190_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/mexico-earthquake_00000190_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/mexico-earthquake_00000190_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/mexico-earthquake_00000190_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    }
+  ]
+}

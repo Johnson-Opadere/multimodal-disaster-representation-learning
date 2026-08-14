@@ -1,0 +1,2949 @@
+{
+  "event_id": "santa-rosa-wildfire",
+  "image_patches": [
+    {
+      "patch_id": "00000002",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000002_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000002_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000002_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000002_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000003",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000003_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000003_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000003_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000003_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000004",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000004_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000004_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000004_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000004_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000005",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000005_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000005_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000005_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000005_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000006",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000006_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000006_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000006_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000006_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000007",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000007_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000007_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000007_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000007_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000009",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000009_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000009_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000009_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000009_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000011",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000011_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000011_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000011_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000011_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000014",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000014_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000014_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000014_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000014_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000015",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000015_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000015_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000015_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000015_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000017",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000017_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000017_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000017_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000017_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000018",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000018_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000018_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000018_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000018_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000022",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000022_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000022_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000022_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000022_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000023",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000023_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000023_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000023_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000023_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000024",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000024_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000024_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000024_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000024_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000026",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000026_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000026_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000026_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000026_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000027",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000027_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000027_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000027_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000027_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000030",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000030_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000030_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000030_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000030_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000031",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000031_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000031_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000031_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000031_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000033",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000033_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000033_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000033_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000033_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000034",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000034_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000034_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000034_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000034_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000035",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000035_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000035_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000035_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000035_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000036",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000036_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000036_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000036_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000036_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000039",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000039_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000039_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000039_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000039_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000040",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000040_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000040_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000040_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000040_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000041",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000041_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000041_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000041_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000041_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000042",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000042_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000042_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000042_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000042_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000044",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000044_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000044_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000044_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000044_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000046",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000046_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000046_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000046_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000046_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000047",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000047_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000047_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000047_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000047_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000049",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000049_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000049_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000049_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000049_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000050",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000050_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000050_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000050_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000050_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000051",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000051_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000051_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000051_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000051_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000055",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000055_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000055_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000055_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000055_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000056",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000056_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000056_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000056_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000056_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000057",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000057_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000057_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000057_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000057_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000058",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000058_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000058_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000058_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000058_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000059",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000059_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000059_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000059_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000059_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000060",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000060_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000060_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000060_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000060_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000063",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000063_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000063_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000063_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000063_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000065",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000065_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000065_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000065_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000065_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000067",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000067_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000067_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000067_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000067_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000069",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000069_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000069_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000069_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000069_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000070",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000070_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000070_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000070_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000070_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000072",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000072_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000072_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000072_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000072_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000073",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000073_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000073_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000073_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000073_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000075",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000075_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000075_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000075_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000075_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000076",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000076_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000076_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000076_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000076_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000078",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000078_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000078_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000078_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000078_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000079",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000079_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000079_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000079_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000079_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000081",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000081_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000081_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000081_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000081_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000084",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000084_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000084_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000084_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000084_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000088",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000088_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000088_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000088_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000088_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000090",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000090_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000090_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000090_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000090_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000091",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000091_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000091_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000091_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000091_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000093",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000093_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000093_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000093_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000093_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000094",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000094_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000094_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000094_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000094_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000095",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000095_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000095_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000095_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000095_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000096",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000096_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000096_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000096_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000096_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000097",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000097_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000097_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000097_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000097_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000098",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000098_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000098_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000098_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000098_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000101",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000101_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000101_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000101_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000101_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000103",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000103_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000103_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000103_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000103_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000105",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000105_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000105_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000105_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000105_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000106",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000106_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000106_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000106_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000106_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000109",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000109_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000109_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000109_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000109_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000110",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000110_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000110_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000110_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000110_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000111",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000111_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000111_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000111_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000111_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000114",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000114_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000114_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000114_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000114_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000116",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000116_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000116_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000116_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000116_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000117",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000117_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000117_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000117_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000117_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000118",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000118_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000118_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000118_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000118_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000119",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000119_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000119_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000119_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000119_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000124",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000124_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000124_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000124_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000124_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000128",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000128_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000128_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000128_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000128_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000129",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000129_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000129_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000129_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000129_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000130",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000130_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000130_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000130_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000130_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000132",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000132_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000132_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000132_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000132_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000134",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000134_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000134_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000134_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000134_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000135",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000135_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000135_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000135_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000135_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000136",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000136_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000136_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000136_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000136_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000137",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000137_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000137_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000137_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000137_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000138",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000138_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000138_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000138_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000138_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000140",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000140_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000140_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000140_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000140_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000142",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000142_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000142_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000142_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000142_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000146",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000146_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000146_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000146_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000146_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000147",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000147_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000147_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000147_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000147_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000148",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000148_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000148_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000148_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000148_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000149",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000149_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000149_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000149_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000149_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000151",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000151_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000151_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000151_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000151_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000152",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000152_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000152_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000152_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000152_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000153",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000153_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000153_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000153_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000153_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000155",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000155_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000155_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000155_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000155_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000156",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000156_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000156_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000156_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000156_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000158",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000158_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000158_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000158_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000158_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000161",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000161_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000161_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000161_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000161_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000162",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000162_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000162_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000162_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000162_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000163",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000163_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000163_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000163_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000163_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000164",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000164_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000164_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000164_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000164_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000165",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000165_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000165_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000165_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000165_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000166",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000166_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000166_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000166_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000166_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000168",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000168_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000168_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000168_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000168_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000169",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000169_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000169_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000169_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000169_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000170",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000170_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000170_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000170_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000170_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000171",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000171_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000171_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000171_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000171_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000173",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000173_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000173_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000173_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000173_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000174",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000174_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000174_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000174_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000174_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000175",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000175_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000175_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000175_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000175_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000176",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000176_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000176_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000176_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000176_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000177",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000177_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000177_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000177_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000177_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000179",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000179_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000179_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000179_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000179_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000180",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000180_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000180_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000180_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000180_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000182",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000182_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000182_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000182_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000182_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000183",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000183_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000183_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000183_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000183_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000185",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000185_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000185_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000185_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000185_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000187",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000187_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000187_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000187_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000187_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000189",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000189_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000189_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000189_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000189_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000190",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000190_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000190_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000190_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000190_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000191",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000191_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000191_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000191_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000191_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000196",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000196_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000196_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000196_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000196_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000199",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000199_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000199_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000199_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000199_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000200",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000200_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000200_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000200_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000200_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000203",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000203_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000203_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000203_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000203_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000205",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000205_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000205_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000205_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000205_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000208",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000208_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000208_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000208_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000208_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000209",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000209_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000209_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000209_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000209_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000210",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000210_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000210_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000210_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000210_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000214",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000214_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000214_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000214_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000214_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000216",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000216_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000216_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000216_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000216_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000220",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000220_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000220_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000220_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000220_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000221",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000221_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000221_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000221_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000221_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000223",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000223_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000223_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000223_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000223_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000224",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000224_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000224_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000224_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000224_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000225",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000225_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000225_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000225_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000225_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000226",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000226_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000226_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000226_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000226_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000228",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000228_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000228_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000228_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000228_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000229",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000229_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000229_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000229_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000229_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000231",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000231_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000231_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000231_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000231_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000233",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000233_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000233_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000233_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000233_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000234",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000234_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000234_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000234_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000234_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000235",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000235_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000235_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000235_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000235_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000237",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000237_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000237_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000237_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000237_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000239",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000239_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000239_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000239_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000239_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000241",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000241_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000241_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000241_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000241_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000243",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000243_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000243_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000243_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000243_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000244",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000244_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000244_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000244_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000244_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000245",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000245_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000245_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000245_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000245_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000246",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000246_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000246_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000246_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000246_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000248",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000248_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000248_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000248_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000248_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000249",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000249_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000249_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000249_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000249_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000250",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000250_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000250_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000250_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000250_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000251",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000251_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000251_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000251_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000251_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000252",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000252_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000252_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000252_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000252_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000253",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000253_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000253_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000253_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000253_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000254",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000254_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000254_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000254_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000254_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000259",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000259_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000259_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000259_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000259_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000260",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000260_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000260_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000260_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000260_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000264",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000264_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000264_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000264_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000264_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000267",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000267_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000267_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000267_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000267_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000268",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000268_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000268_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000268_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000268_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000270",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000270_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000270_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000270_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000270_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000271",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000271_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000271_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000271_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000271_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000272",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000272_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000272_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000272_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000272_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000274",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000274_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000274_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000274_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000274_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000275",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000275_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000275_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000275_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000275_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000276",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000276_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000276_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000276_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000276_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000277",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000277_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000277_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000277_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000277_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000280",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000280_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000280_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000280_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000280_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000281",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000281_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000281_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000281_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000281_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000283",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000283_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000283_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000283_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000283_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000286",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000286_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000286_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000286_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000286_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000287",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000287_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000287_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000287_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000287_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000291",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000291_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000291_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000291_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000291_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000293",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000293_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000293_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000293_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000293_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000296",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000296_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000296_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000296_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000296_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000297",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000297_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000297_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000297_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000297_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000298",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000298_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000298_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000298_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000298_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000299",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000299_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000299_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000299_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000299_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000300",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000300_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000300_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000300_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000300_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000301",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000301_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000301_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000301_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000301_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000302",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000302_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000302_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000302_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000302_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000304",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000304_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000304_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000304_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000304_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000306",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000306_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000306_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000306_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000306_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000308",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000308_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000308_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000308_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000308_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000309",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000309_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000309_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000309_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000309_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000312",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000312_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000312_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000312_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000312_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000313",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000313_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000313_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000313_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000313_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000314",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000314_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000314_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000314_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000314_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000315",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000315_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000315_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000315_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000315_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000318",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000318_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000318_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000318_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000318_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000321",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000321_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000321_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000321_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000321_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000324",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000324_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000324_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000324_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000324_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000325",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000325_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000325_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000325_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000325_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000330",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000330_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000330_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000330_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000330_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000331",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000331_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000331_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000331_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000331_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000333",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000333_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000333_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000333_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000333_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000337",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000337_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000337_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000337_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000337_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000338",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000338_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000338_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000338_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000338_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000340",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000340_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000340_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000340_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000340_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000341",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000341_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000341_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000341_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000341_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000344",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000344_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000344_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000344_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000344_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000345",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000345_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000345_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000345_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000345_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000346",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000346_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000346_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000346_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000346_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000348",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000348_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000348_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000348_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000348_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000351",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000351_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000351_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000351_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000351_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000353",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000353_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000353_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000353_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000353_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000355",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000355_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000355_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000355_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000355_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000356",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000356_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000356_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000356_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000356_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000357",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000357_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000357_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000357_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000357_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000361",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000361_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000361_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000361_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000361_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000362",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000362_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000362_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000362_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000362_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000368",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000368_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000368_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000368_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000368_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000369",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000369_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000369_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000369_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000369_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000370",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000370_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000370_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000370_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000370_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000371",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000371_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000371_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000371_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000371_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000372",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000372_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000372_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000372_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000372_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000373",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000373_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000373_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000373_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000373_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000374",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000374_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000374_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000374_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000374_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000376",
+      "rgb_pre": "train/rgb_pre_norm/santa-rosa-wildfire_00000376_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/santa-rosa-wildfire_00000376_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/santa-rosa-wildfire_00000376_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/santa-rosa-wildfire_00000376_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000008",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000008_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000008_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000008_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000008_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000010",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000010_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000010_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000010_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000010_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000013",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000013_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000013_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000013_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000013_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000016",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000016_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000016_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000016_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000016_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000020",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000020_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000020_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000020_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000020_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000025",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000025_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000025_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000025_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000025_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000029",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000029_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000029_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000029_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000029_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000032",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000032_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000032_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000032_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000032_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000037",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000037_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000037_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000037_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000037_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000048",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000048_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000048_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000048_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000048_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000053",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000053_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000053_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000053_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000053_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000054",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000054_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000054_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000054_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000054_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000061",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000061_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000061_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000061_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000061_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000062",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000062_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000062_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000062_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000062_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000064",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000064_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000064_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000064_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000064_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000077",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000077_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000077_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000077_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000077_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000080",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000080_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000080_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000080_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000080_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000083",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000083_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000083_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000083_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000083_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000092",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000092_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000092_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000092_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000092_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000104",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000104_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000104_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000104_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000104_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000107",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000107_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000107_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000107_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000107_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000108",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000108_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000108_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000108_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000108_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000112",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000112_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000112_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000112_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000112_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000115",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000115_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000115_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000115_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000115_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000120",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000120_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000120_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000120_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000120_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000121",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000121_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000121_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000121_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000121_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000122",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000122_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000122_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000122_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000122_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000126",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000126_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000126_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000126_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000126_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000127",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000127_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000127_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000127_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000127_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000131",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000131_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000131_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000131_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000131_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000139",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000139_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000139_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000139_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000139_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000150",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000150_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000150_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000150_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000150_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000154",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000154_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000154_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000154_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000154_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000157",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000157_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000157_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000157_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000157_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000160",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000160_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000160_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000160_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000160_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000167",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000167_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000167_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000167_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000167_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000186",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000186_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000186_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000186_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000186_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000188",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000188_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000188_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000188_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000188_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000193",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000193_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000193_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000193_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000193_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000194",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000194_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000194_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000194_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000194_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000195",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000195_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000195_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000195_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000195_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000197",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000197_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000197_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000197_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000197_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000201",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000201_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000201_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000201_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000201_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000211",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000211_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000211_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000211_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000211_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000218",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000218_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000218_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000218_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000218_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000219",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000219_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000219_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000219_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000219_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000222",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000222_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000222_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000222_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000222_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000227",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000227_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000227_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000227_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000227_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000230",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000230_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000230_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000230_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000230_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000232",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000232_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000232_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000232_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000232_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000240",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000240_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000240_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000240_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000240_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000255",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000255_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000255_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000255_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000255_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000261",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000261_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000261_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000261_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000261_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000262",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000262_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000262_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000262_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000262_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000263",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000263_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000263_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000263_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000263_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000265",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000265_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000265_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000265_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000265_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000266",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000266_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000266_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000266_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000266_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000278",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000278_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000278_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000278_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000278_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000282",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000282_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000282_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000282_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000282_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000288",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000288_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000288_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000288_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000288_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000303",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000303_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000303_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000303_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000303_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000307",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000307_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000307_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000307_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000307_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000310",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000310_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000310_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000310_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000310_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000316",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000316_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000316_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000316_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000316_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000317",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000317_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000317_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000317_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000317_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000319",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000319_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000319_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000319_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000319_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000322",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000322_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000322_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000322_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000322_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000323",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000323_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000323_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000323_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000323_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000326",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000326_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000326_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000326_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000326_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000332",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000332_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000332_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000332_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000332_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000335",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000335_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000335_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000335_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000335_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000342",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000342_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000342_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000342_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000342_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000347",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000347_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000347_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000347_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000347_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000349",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000349_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000349_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000349_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000349_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000352",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000352_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000352_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000352_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000352_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000363",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000363_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000363_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000363_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000363_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000365",
+      "rgb_pre": "hold/rgb_pre_norm/santa-rosa-wildfire_00000365_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/santa-rosa-wildfire_00000365_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/santa-rosa-wildfire_00000365_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/santa-rosa-wildfire_00000365_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000000",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000000_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000000_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000000_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000000_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000001",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000001_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000001_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000001_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000001_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000012",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000012_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000012_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000012_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000012_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000019",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000019_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000019_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000019_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000019_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000021",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000021_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000021_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000021_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000021_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000028",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000028_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000028_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000028_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000028_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000038",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000038_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000038_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000038_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000038_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000043",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000043_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000043_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000043_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000043_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000045",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000045_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000045_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000045_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000045_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000052",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000052_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000052_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000052_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000052_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000066",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000066_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000066_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000066_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000066_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000068",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000068_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000068_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000068_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000068_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000071",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000071_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000071_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000071_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000071_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000074",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000074_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000074_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000074_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000074_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000082",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000082_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000082_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000082_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000082_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000085",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000085_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000085_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000085_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000085_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000086",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000086_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000086_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000086_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000086_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000089",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000089_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000089_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000089_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000089_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000099",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000099_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000099_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000099_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000099_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000100",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000100_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000100_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000100_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000100_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000102",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000102_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000102_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000102_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000102_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000113",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000113_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000113_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000113_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000113_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000123",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000123_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000123_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000123_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000123_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000133",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000133_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000133_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000133_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000133_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000141",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000141_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000141_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000141_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000141_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000143",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000143_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000143_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000143_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000143_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000144",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000144_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000144_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000144_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000144_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000145",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000145_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000145_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000145_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000145_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000159",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000159_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000159_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000159_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000159_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000172",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000172_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000172_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000172_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000172_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000178",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000178_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000178_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000178_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000178_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000181",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000181_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000181_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000181_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000181_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000184",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000184_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000184_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000184_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000184_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000198",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000198_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000198_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000198_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000198_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000202",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000202_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000202_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000202_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000202_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000204",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000204_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000204_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000204_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000204_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000206",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000206_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000206_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000206_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000206_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000207",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000207_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000207_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000207_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000207_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000212",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000212_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000212_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000212_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000212_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000213",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000213_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000213_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000213_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000213_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000215",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000215_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000215_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000215_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000215_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000217",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000217_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000217_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000217_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000217_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000236",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000236_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000236_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000236_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000236_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000238",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000238_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000238_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000238_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000238_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000242",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000242_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000242_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000242_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000242_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000256",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000256_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000256_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000256_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000256_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000257",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000257_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000257_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000257_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000257_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000269",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000269_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000269_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000269_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000269_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000273",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000273_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000273_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000273_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000273_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000279",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000279_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000279_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000279_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000279_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000284",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000284_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000284_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000284_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000284_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000285",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000285_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000285_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000285_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000285_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000290",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000290_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000290_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000290_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000290_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000292",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000292_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000292_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000292_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000292_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000294",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000294_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000294_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000294_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000294_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000295",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000295_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000295_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000295_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000295_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000305",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000305_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000305_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000305_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000305_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000311",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000311_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000311_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000311_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000311_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000328",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000328_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000328_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000328_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000328_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000329",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000329_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000329_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000329_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000329_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000336",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000336_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000336_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000336_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000336_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000339",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000339_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000339_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000339_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000339_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000343",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000343_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000343_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000343_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000343_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000350",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000350_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000350_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000350_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000350_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000354",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000354_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000354_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000354_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000354_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000358",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000358_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000358_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000358_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000358_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000359",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000359_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000359_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000359_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000359_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000360",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000360_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000360_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000360_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000360_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000364",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000364_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000364_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000364_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000364_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000366",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000366_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000366_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000366_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000366_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000367",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000367_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000367_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000367_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000367_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000375",
+      "rgb_pre": "test/rgb_pre_norm/santa-rosa-wildfire_00000375_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/santa-rosa-wildfire_00000375_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/santa-rosa-wildfire_00000375_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/santa-rosa-wildfire_00000375_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    }
+  ]
+}

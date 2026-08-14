@@ -1,0 +1,581 @@
+{
+  "event_id": "hurricane-matthew",
+  "image_patches": [
+    {
+      "patch_id": "00000110",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000110_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000110_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000110_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000110_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000116",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000116_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000116_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000116_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000116_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000119",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000119_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000119_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000119_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000119_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000126",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000126_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000126_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000126_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000126_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000132",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000132_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000132_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000132_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000132_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000133",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000133_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000133_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000133_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000133_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000137",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000137_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000137_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000137_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000137_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000154",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000154_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000154_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000154_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000154_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000155",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000155_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000155_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000155_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000155_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000159",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000159_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000159_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000159_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000159_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000162",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000162_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000162_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000162_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000162_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000164",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000164_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000164_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000164_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000164_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000167",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000167_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000167_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000167_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000167_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000168",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000168_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000168_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000168_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000168_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000171",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000171_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000171_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000171_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000171_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000173",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000173_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000173_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000173_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000173_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000175",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000175_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000175_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000175_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000175_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000178",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000178_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000178_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000178_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000178_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000179",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000179_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000179_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000179_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000179_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000182",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000182_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000182_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000182_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000182_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000185",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000185_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000185_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000185_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000185_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000186",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000186_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000186_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000186_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000186_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000190",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000190_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000190_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000190_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000190_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000192",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000192_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000192_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000192_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000192_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000193",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000193_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000193_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000193_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000193_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000195",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000195_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000195_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000195_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000195_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000197",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000197_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000197_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000197_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000197_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000204",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000204_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000204_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000204_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000204_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000209",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000209_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000209_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000209_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000209_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000213",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000213_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000213_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000213_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000213_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000215",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000215_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000215_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000215_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000215_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000219",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000219_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000219_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000219_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000219_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000221",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000221_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000221_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000221_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000221_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000228",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000228_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000228_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000228_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000228_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000232",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000232_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000232_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000232_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000232_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000234",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000234_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000234_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000234_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000234_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000241",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000241_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000241_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000241_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000241_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000250",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000250_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000250_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000250_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000250_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000259",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000259_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000259_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000259_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000259_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000271",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000271_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000271_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000271_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000271_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000341",
+      "rgb_pre": "train/rgb_pre_norm/hurricane-matthew_00000341_pre_disaster_norm.npy",
+      "rgb_post": "train/rgb_post_norm/hurricane-matthew_00000341_post_disaster_norm.npy",
+      "sar_pre": "train/sar_pre_norm/hurricane-matthew_00000341_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "train/sar_post_norm/hurricane-matthew_00000341_post_disaster_post_sar_norm.npy",
+      "split": "train"
+    },
+    {
+      "patch_id": "00000123",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000123_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000123_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000123_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000123_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000124",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000124_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000124_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000124_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000124_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000127",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000127_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000127_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000127_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000127_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000131",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000131_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000131_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000131_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000131_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000138",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000138_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000138_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000138_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000138_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000141",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000141_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000141_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000141_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000141_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000144",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000144_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000144_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000144_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000144_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000161",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000161_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000161_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000161_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000161_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000196",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000196_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000196_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000196_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000196_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000199",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000199_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000199_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000199_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000199_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000224",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000224_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000224_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000224_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000224_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000229",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000229_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000229_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000229_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000229_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000247",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000247_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000247_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000247_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000247_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000253",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000253_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000253_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000253_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000253_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000258",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000258_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000258_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000258_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000258_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000280",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000280_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000280_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000280_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000280_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000323",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000323_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000323_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000323_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000323_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000326",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000326_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000326_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000326_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000326_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000330",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000330_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000330_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000330_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000330_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000333",
+      "rgb_pre": "hold/rgb_pre_norm/hurricane-matthew_00000333_pre_disaster_norm.npy",
+      "rgb_post": "hold/rgb_post_norm/hurricane-matthew_00000333_post_disaster_norm.npy",
+      "sar_pre": "hold/sar_pre_norm/hurricane-matthew_00000333_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "hold/sar_post_norm/hurricane-matthew_00000333_post_disaster_post_sar_norm.npy",
+      "split": "hold"
+    },
+    {
+      "patch_id": "00000111",
+      "rgb_pre": "test/rgb_pre_norm/hurricane-matthew_00000111_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/hurricane-matthew_00000111_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/hurricane-matthew_00000111_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/hurricane-matthew_00000111_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000112",
+      "rgb_pre": "test/rgb_pre_norm/hurricane-matthew_00000112_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/hurricane-matthew_00000112_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/hurricane-matthew_00000112_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/hurricane-matthew_00000112_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000114",
+      "rgb_pre": "test/rgb_pre_norm/hurricane-matthew_00000114_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/hurricane-matthew_00000114_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/hurricane-matthew_00000114_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/hurricane-matthew_00000114_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000115",
+      "rgb_pre": "test/rgb_pre_norm/hurricane-matthew_00000115_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/hurricane-matthew_00000115_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/hurricane-matthew_00000115_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/hurricane-matthew_00000115_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000118",
+      "rgb_pre": "test/rgb_pre_norm/hurricane-matthew_00000118_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/hurricane-matthew_00000118_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/hurricane-matthew_00000118_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/hurricane-matthew_00000118_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000121",
+      "rgb_pre": "test/rgb_pre_norm/hurricane-matthew_00000121_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/hurricane-matthew_00000121_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/hurricane-matthew_00000121_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/hurricane-matthew_00000121_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000147",
+      "rgb_pre": "test/rgb_pre_norm/hurricane-matthew_00000147_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/hurricane-matthew_00000147_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/hurricane-matthew_00000147_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/hurricane-matthew_00000147_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000165",
+      "rgb_pre": "test/rgb_pre_norm/hurricane-matthew_00000165_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/hurricane-matthew_00000165_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/hurricane-matthew_00000165_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/hurricane-matthew_00000165_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000183",
+      "rgb_pre": "test/rgb_pre_norm/hurricane-matthew_00000183_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/hurricane-matthew_00000183_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/hurricane-matthew_00000183_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/hurricane-matthew_00000183_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000236",
+      "rgb_pre": "test/rgb_pre_norm/hurricane-matthew_00000236_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/hurricane-matthew_00000236_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/hurricane-matthew_00000236_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/hurricane-matthew_00000236_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    },
+    {
+      "patch_id": "00000337",
+      "rgb_pre": "test/rgb_pre_norm/hurricane-matthew_00000337_pre_disaster_norm.npy",
+      "rgb_post": "test/rgb_post_norm/hurricane-matthew_00000337_post_disaster_norm.npy",
+      "sar_pre": "test/sar_pre_norm/hurricane-matthew_00000337_pre_disaster_pre_sar_norm.npy",
+      "sar_post": "test/sar_post_norm/hurricane-matthew_00000337_post_disaster_post_sar_norm.npy",
+      "split": "test"
+    }
+  ]
+}
