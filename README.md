@@ -546,7 +546,7 @@ into a shared semantic space.
 
 # InfoNCE Objective
 
-$$L = -\log \frac{\exp(\operatorname{sim}(z_a,z_p)/\tau)}{\sum_j \exp(\operatorname{sim}(z_a,z_j)/\tau)}$$
+$$L = -\log \frac{e^{\mathrm{sim}(z_a,z_p)/\tau}}{\sum_j e^{\mathrm{sim}(z_a,z_j)/\tau}}$$
 
 ---
 
