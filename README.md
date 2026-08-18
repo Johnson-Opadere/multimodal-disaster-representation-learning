@@ -175,15 +175,11 @@ All modalities are aligned into a shared semantic embedding manifold:
 
 After L2 normalization:
 
-$$
-||z|| = 1
-$$
+$$\lVert z \rVert = 1$$
 
 all embeddings lie on a shared hypersphere where:
 
-$$
-\cos(a,b)=a^Tb
-$$
+$$\cos(a,b) = a^\top b$$
 
 Semantic similarity is therefore encoded directly into geometric proximity.
 
@@ -501,13 +497,7 @@ Pre- and post-disaster RGB and SAR observations are encoded separately to extrac
 
 The system computes:
 
-$$
-\Delta f
-=
-f_{post}
--
-f_{pre}
-$$
+$$\Delta f = f_{\text{post}} - f_{\text{pre}}$$
 
 to capture:
 - disaster-induced semantic change
@@ -556,17 +546,7 @@ into a shared semantic space.
 
 # InfoNCE Objective
 
-$$
-L
-=
--
-\log
-\frac{
-e^{sim(z_a,z_p)/\tau}
-}{
-\sum_j e^{sim(z_a,z_j)/\tau}
-}
-$$
+$$L = -\log \frac{\exp(\operatorname{sim}(z_a,z_p)/\tau)}{\sum_j \exp(\operatorname{sim}(z_a,z_j)/\tau)}$$
 
 ---
 
@@ -802,8 +782,6 @@ inside the shared semantic space.
 │   ├── metadata/
 │   ├── report_sources.txt
 │   └── audio_sources.txt
-│
-├── docs/
 │
 ├── .gitignore
 └── README.md
